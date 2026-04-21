@@ -1,0 +1,9 @@
+{
+  "name": "horizon-nomade-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Serveur local pour le site de voyage Horizon Nomade.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
